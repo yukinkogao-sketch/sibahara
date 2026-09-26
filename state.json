@@ -1,4 +1,40 @@
 {
-  "seen": {},
-  "last_daily_check": null
+  "seen": {
+    "兵庫県立はりま姫路総合医療センター": {},
+    "姫路第一病院": {
+      "https://levwell.jp/offer/agent/3038913/": {
+        "url": "https://levwell.jp/offer/agent/3038913/",
+        "title": "臨床検査技師（正社員・常勤）",
+        "first_seen": "2026-09-26"
+      }
+    },
+    "明石市立市民病院": {
+      "https://akashi-shiminhosp.jp/uc/2027年4月採用の臨床検査技師を募集しています/2026/06/19/": {
+        "url": "https://akashi-shiminhosp.jp/uc/2027年4月採用の臨床検査技師を募集しています/2026/06/19/",
+        "title": "2027年4月採用の臨床検査技師を募集しています",
+        "first_seen": "2026-09-26"
+      }
+    },
+    "城陽江尻病院": {
+      "https://www.jinzaibank.com/kjb/detail/547989.html": {
+        "url": "https://www.jinzaibank.com/kjb/detail/547989.html",
+        "title": "臨床検査技師（エコー専属業務）",
+        "first_seen": "2026-09-26"
+      }
+    },
+    "厚生病院": {
+      "https://www.jinzaibank.com/kjb/detail/547712.html": {
+        "url": "https://www.jinzaibank.com/kjb/detail/547712.html",
+        "title": "臨床検査技師",
+        "first_seen": "2026-09-26"
+      }
+    },
+    "石川病院": {},
+    "姫路中央病院": {},
+    "加古川中央市民病院": {},
+    "北播磨総合医療センター": {},
+    "石田クリニック": {},
+    "とし内科": {}
+  },
+  "last_daily_check": "2026-09-26T00:00:00+09:00"
 }
