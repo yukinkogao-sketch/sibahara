@@ -27,14 +27,31 @@
         "url": "https://www.jinzaibank.com/kjb/detail/547712.html",
         "title": "臨床検査技師",
         "first_seen": "2026-09-26"
+      },
+      "https://worksy.jp/OC031/hyogo/J1057529": {
+        "url": "https://worksy.jp/OC031/hyogo/J1057529",
+        "title": "臨床検査技師（一般病院）（パート）",
+        "first_seen": "2026-09-27"
       }
     },
     "石川病院": {},
     "姫路中央病院": {},
     "加古川中央市民病院": {},
-    "北播磨総合医療センター": {},
+    "北播磨総合医療センター": {
+      "https://www.kitahari-mc.jp/1062/1074/1529/19448.html": {
+        "url": "https://www.kitahari-mc.jp/1062/1074/1529/19448.html",
+        "title": "臨床検査技師（パートタイム会計年度任用職員）",
+        "first_seen": "2026-09-27"
+      }
+    },
     "石田クリニック": {},
-    "とし内科": {}
+    "とし内科": {
+      "https://www.toshi-naika-recruit.com/": {
+        "url": "https://www.toshi-naika-recruit.com/",
+        "title": "臨床検査技師募集（心エコー/腹部エコー必須、経験3年以上）",
+        "first_seen": "2026-09-27"
+      }
+    }
   },
-  "last_daily_check": "2026-09-26T00:00:00+09:00"
+  "last_daily_check": "2026-09-27T00:00:00+09:00"
 }
