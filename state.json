@@ -6,6 +6,16 @@
         "url": "https://levwell.jp/offer/agent/3038913/",
         "title": "臨床検査技師（正社員・常勤）",
         "first_seen": "2026-09-26"
+      },
+      "https://www.jinzaibank.com/kjb/detail/544573.html": {
+        "url": "https://www.jinzaibank.com/kjb/detail/544573.html",
+        "title": "臨床検査技師（常勤）",
+        "first_seen": "2026-09-27"
+      },
+      "https://www.co-medical.com/mt/job606390/": {
+        "url": "https://www.co-medical.com/mt/job606390/",
+        "title": "臨床検査技師（常勤）",
+        "first_seen": "2026-09-27"
       }
     },
     "明石市立市民病院": {
@@ -32,11 +42,22 @@
         "url": "https://worksy.jp/OC031/hyogo/J1057529",
         "title": "臨床検査技師（一般病院）（パート）",
         "first_seen": "2026-09-27"
+      },
+      "https://jp.stanby.com/r_912ac558fc60378ce3110a95f855f36b": {
+        "url": "https://jp.stanby.com/r_912ac558fc60378ce3110a95f855f36b",
+        "title": "臨床検査技師（正社員）",
+        "first_seen": "2026-09-27"
       }
     },
     "石川病院": {},
     "姫路中央病院": {},
-    "加古川中央市民病院": {},
+    "加古川中央市民病院": {
+      "https://www.kakohp.jp/recruit/20250717_kensa.html": {
+        "url": "https://www.kakohp.jp/recruit/20250717_kensa.html",
+        "title": "臨床検査技師（正規職員）",
+        "first_seen": "2026-09-27"
+      }
+    },
     "北播磨総合医療センター": {
       "https://www.kitahari-mc.jp/1062/1074/1529/19448.html": {
         "url": "https://www.kitahari-mc.jp/1062/1074/1529/19448.html",
@@ -53,5 +74,139 @@
       }
     }
   },
-  "last_daily_check": "2026-09-27T00:00:00+09:00"
+  "extra_seen": {
+    "姫路愛和病院（姫路市飯田）": {
+      "https://www.co-medical.com/mt/job893730/": {
+        "url": "https://www.co-medical.com/mt/job893730/",
+        "title": "臨床検査技師（正社員・エコー室配属予定）",
+        "first_seen": "2026-09-27"
+      }
+    },
+    "いしづか乳腺外科クリニック（姫路市）": {
+      "https://www.jinzaibank.com/kjb/detail/5480540.html": {
+        "url": "https://www.jinzaibank.com/kjb/detail/5480540.html",
+        "title": "臨床検査技師（フルタイム/パート・乳腺エコー）",
+        "first_seen": "2026-09-27"
+      }
+    },
+    "中田医院（加古川市尾上町）": {
+      "https://job-medley.com/mt/1159379/": {
+        "url": "https://job-medley.com/mt/1159379/",
+        "title": "臨床検査技師（パート・アルバイト、心エコー経験必須）",
+        "first_seen": "2026-09-27"
+      }
+    },
+    "加納総合病院（加古川市）": {
+      "https://www.co-medical.com/C0003444/": {
+        "url": "https://www.co-medical.com/C0003444/",
+        "title": "臨床検査技師（常勤）",
+        "first_seen": "2026-09-27"
+      }
+    },
+    "とくなが病院（たつの市神岡町）": {
+      "https://www.jinzaibank.com/kjb/detail/547713.html": {
+        "url": "https://www.jinzaibank.com/kjb/detail/547713.html",
+        "title": "臨床検査技師（腹部・心臓・甲状腺・頸動脈エコー）",
+        "first_seen": "2026-09-27"
+      }
+    },
+    "野木病院（明石市魚住町）": {
+      "https://job-medley.com/mt/1234948/": {
+        "url": "https://job-medley.com/mt/1234948/",
+        "title": "臨床検査技師（正社員、週2日〜可、乳腺・心エコー）",
+        "first_seen": "2026-09-27"
+      }
+    },
+    "中山クリニック（明石市魚住町）": {
+      "https://www.akashi-n-clinic.com/saiyou/bosyu-post/rinsyoukensagisi/": {
+        "url": "https://www.akashi-n-clinic.com/saiyou/bosyu-post/rinsyoukensagisi/",
+        "title": "臨床検査技師（正職員・心臓/腹部/頸部/下肢血管エコー）",
+        "first_seen": "2026-09-27"
+      }
+    },
+    "あさぎり病院（明石市）": {
+      "https://www.jinzaibank.com/kjb/detail/547668.html": {
+        "url": "https://www.jinzaibank.com/kjb/detail/547668.html",
+        "title": "臨床検査技師（常勤・当直なし、腹部/心臓/乳腺エコー）",
+        "first_seen": "2026-09-27"
+      }
+    },
+    "ささきクリニック（明石市西明石南町）": {
+      "https://job-medley.com/mt/1397589/": {
+        "url": "https://job-medley.com/mt/1397589/",
+        "title": "臨床検査技師（消化器内科・超音波検査）",
+        "first_seen": "2026-09-27"
+      }
+    },
+    "ミナミ整形外科・内科循環器科（福崎町）": {
+      "https://jp.indeed.com/viewjob?jk=9423eab597626493": {
+        "url": "https://jp.indeed.com/viewjob?jk=9423eab597626493",
+        "title": "臨床検査技師（採血なし・エコー全般）",
+        "first_seen": "2026-09-27"
+      }
+    },
+    "太子病院（太子町）": {
+      "https://www.jinzaibank.com/kjb/detail/548245.html": {
+        "url": "https://www.jinzaibank.com/kjb/detail/548245.html",
+        "title": "臨床検査技師（腹部/心臓エコー経験者歓迎）",
+        "first_seen": "2026-09-27"
+      }
+    },
+    "あさか相生病院（相生市）": {
+      "https://job-medley.com/mt/1627442/": {
+        "url": "https://job-medley.com/mt/1627442/",
+        "title": "臨床検査技師（パート・アルバイト、日勤のみ）",
+        "first_seen": "2026-09-27"
+      }
+    },
+    "ときわ病院（三木市）": {
+      "https://www.jinzaibank.com/kjb/detail/544556.html": {
+        "url": "https://www.jinzaibank.com/kjb/detail/544556.html",
+        "title": "臨床検査技師（常勤・腹部/心臓/乳腺/甲状腺/頸動脈/下肢エコー）",
+        "first_seen": "2026-09-27"
+      }
+    },
+    "大山記念病院（西脇市黒田庄町）": {
+      "https://job-medley.com/facility/31332/": {
+        "url": "https://job-medley.com/facility/31332/",
+        "title": "臨床検査技師（心臓・腹部・下肢動脈・シャントエコー）",
+        "first_seen": "2026-09-27"
+      }
+    },
+    "岡村クリニック（神戸市西区）": {
+      "https://job-medley.com/facility/422583/": {
+        "url": "https://job-medley.com/facility/422583/",
+        "title": "臨床検査技師（腹部/甲状腺/下肢/頸動脈エコー、5年以上）",
+        "first_seen": "2026-09-27"
+      }
+    },
+    "神戸百年記念病院（神戸市西区）": {
+      "https://job-medley.com/mt/1030040/": {
+        "url": "https://job-medley.com/mt/1030040/",
+        "title": "臨床検査技師（正職員、心臓エコー指導可能な方歓迎）",
+        "first_seen": "2026-09-27"
+      }
+    },
+    "神戸海星病院（神戸市垂水区）": {
+      "https://job-medley.com/mt/439313/": {
+        "url": "https://job-medley.com/mt/439313/",
+        "title": "臨床検査技師（パート・バイト、腹部/心エコー経験必須）",
+        "first_seen": "2026-09-27"
+      }
+    },
+    "すずらん病院（神戸市須磨区、顕修会）": {
+      "https://job-medley.com/mt/78346/": {
+        "url": "https://job-medley.com/mt/78346/",
+        "title": "臨床検査技師（正職員、エコー業務含む）",
+        "first_seen": "2026-09-27"
+      },
+      "https://job-medley.com/mt/620523/": {
+        "url": "https://job-medley.com/mt/620523/",
+        "title": "臨床検査技師（パート・バイト、エコー業務含む）",
+        "first_seen": "2026-09-27"
+      }
+    }
+  },
+  "last_daily_check": "2026-09-27T00:00:00+09:00",
+  "last_weekly_check": "2026-09-27T23:59:00+09:00"
 }
