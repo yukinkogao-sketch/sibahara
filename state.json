@@ -61,7 +61,14 @@
       }
     },
     "石川病院": {},
-    "姫路中央病院": {},
+    "姫路中央病院": {
+      "姫路中央病院_臨床検査技師（正社員）": {
+        "url": "https://co-medical.mynavi.jp/search/9130882/detail.php",
+        "title": "臨床検査技師（正社員）",
+        "first_seen": "2026-09-30",
+        "note": "公式サイトは取得不可のためWebSearch経由の情報。要目視確認"
+      }
+    },
     "加古川中央市民病院": {
       "https://www.kakohp.jp/recruit/20250717_kensa.html": {
         "url": "https://www.kakohp.jp/recruit/20250717_kensa.html",
@@ -76,7 +83,20 @@
         "first_seen": "2026-09-27"
       }
     },
-    "石田クリニック": {},
+    "石田クリニック": {
+      "石田クリニック_臨床検査技師（正社員）": {
+        "url": "https://ishidacl.jp/ (求人媒体経由、正確なURL未特定)",
+        "title": "臨床検査技師（正社員）",
+        "first_seen": "2026-09-30",
+        "note": "公式サイトは取得不可のためWebSearch経由の情報。要目視確認"
+      },
+      "石田クリニック_臨床検査技師（アルバイト・パート）": {
+        "url": "https://ishidacl.jp/ (求人媒体経由、正確なURL未特定)",
+        "title": "臨床検査技師（アルバイト・パート）",
+        "first_seen": "2026-09-30",
+        "note": "公式サイトは取得不可のためWebSearch経由の情報。要目視確認"
+      }
+    },
     "とし内科": {
       "https://www.toshi-naika-recruit.com/": {
         "url": "https://www.toshi-naika-recruit.com/",
@@ -218,6 +238,6 @@
       }
     }
   },
-  "last_daily_check": "2026-09-29T23:20:00+09:00",
+  "last_daily_check": "2026-09-30T23:19:30+09:00",
   "last_weekly_check": "2026-09-27T23:59:00+09:00"
 }
