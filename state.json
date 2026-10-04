@@ -16,6 +16,14 @@
         "url": "https://www.co-medical.com/mt/job606390/",
         "title": "臨床検査技師（常勤）",
         "first_seen": "2026-09-27"
+      },
+      "https://mtjob.jp/recruit/detail/?JOB_ID=41622": {
+        "url": "https://mtjob.jp/recruit/detail/?JOB_ID=41622",
+        "title": "臨床検査技師（常勤）",
+        "employment_type": "常勤（正社員・日勤）、月給20.4万〜24.4万円",
+        "echo_mention": "超音波検査（頸動脈、心臓、乳腺、腹部など）",
+        "first_seen": "2026-10-04",
+        "note": "既存の常勤求人（levwell/jinzaibank/co-medical掲載）と同一ポジションの可能性あり。要目視確認"
       }
     },
     "明石市立市民病院": {
@@ -58,6 +66,22 @@
         "url": "https://jp.stanby.com/r_912ac558fc60378ce3110a95f855f36b",
         "title": "臨床検査技師（正社員）",
         "first_seen": "2026-09-27"
+      },
+      "厚生病院_臨床検査技師（正社員・ハローワーク経由）": {
+        "url": "https://www.hellowork.careers/%E5%8C%BB%E7%99%82%E6%B3%95%E4%BA%BA%E7%A4%BE%E5%9B%A3+%E7%B6%B1%E5%B3%B6%E4%BC%9A+%E5%8E%9A%E7%94%9F%E7%97%85%E9%99%A2%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+        "title": "臨床検査技師（正社員）",
+        "employment_type": "正社員、月給215,100円〜314,100円程度",
+        "echo_mention": "腹部エコー、心臓エコー等の生理機能検査を担当",
+        "first_seen": "2026-10-04",
+        "note": "既存のjinzaibank/stanby掲載の正社員求人と同一ポジションの可能性あり。要目視確認"
+      },
+      "厚生病院_臨床検査技師（パート・ハローワーク経由）": {
+        "url": "https://www.hellowork.careers/%E5%8C%BB%E7%99%82%E6%B3%95%E4%BA%BA%E7%A4%BE%E5%9B%A3+%E7%B6%B1%E5%B3%B6%E4%BC%9A+%E5%8E%9A%E7%94%9F%E7%97%85%E9%99%A2%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+        "title": "臨床検査技師（パート）",
+        "employment_type": "パート、時給1,404円〜1,504円程度",
+        "echo_mention": "腹部エコー等の生理機能検査を担当",
+        "first_seen": "2026-10-04",
+        "note": "既存のworksy.jp掲載のパート求人と同一ポジションの可能性あり。要目視確認"
       }
     },
     "石川病院": {},
@@ -98,16 +122,18 @@
     },
     "石田クリニック": {
       "石田クリニック_臨床検査技師（正社員）": {
-        "url": "https://ishidacl.jp/ (求人媒体経由、正確なURL未特定)",
+        "url": "https://job-medley.com/facility/394956/",
         "title": "臨床検査技師（正社員）",
         "first_seen": "2026-09-30",
-        "note": "公式サイトは取得不可のためWebSearch経由の情報。要目視確認"
+        "note": "求人媒体(job-medley)経由でURL確認。雇用条件数値は要目視確認",
+        "echo_mention": "心臓、腹部、血管のエコー検査"
       },
       "石田クリニック_臨床検査技師（アルバイト・パート）": {
-        "url": "https://ishidacl.jp/ (求人媒体経由、正確なURL未特定)",
+        "url": "https://job-medley.com/facility/394956/",
         "title": "臨床検査技師（アルバイト・パート）",
         "first_seen": "2026-09-30",
-        "note": "公式サイトは取得不可のためWebSearch経由の情報。要目視確認"
+        "note": "求人媒体(job-medley)経由でURL確認。雇用条件数値は要目視確認",
+        "echo_mention": "心臓、腹部、血管のエコー検査"
       }
     },
     "とし内科": {
@@ -249,8 +275,48 @@
         "title": "臨床検査技師（パート・バイト、エコー業務含む）",
         "first_seen": "2026-09-27"
       }
+    },
+    "長久病院（姫路市広畑区）": {
+      "長久病院_臨床検査技師（正社員・新卒/既卒3年以内）": {
+        "url": "https://mt-bank.jp/kk272",
+        "title": "臨床検査技師（新卒・既卒3年以内応募可、正社員）",
+        "employment_type": "正社員、月給183,500円〜",
+        "echo_mention": "腹部・頸動脈・心エコー等の生理機能検査全般（神経伝導速度検査も担当）",
+        "first_seen": "2026-10-04",
+        "note": "求人媒体経由、個別求人ページの正確なURL未特定。要目視確認"
+      }
+    },
+    "高砂西部病院（高砂市、徳洲会）": {
+      "https://mt.tokushukai.or.jp/workplace/takasagoseibu": {
+        "url": "https://mt.tokushukai.or.jp/workplace/takasagoseibu",
+        "title": "臨床検査技師",
+        "employment_type": "詳細未確認",
+        "echo_mention": "スタッフ全員が超音波検査ができるよう教育中との記載",
+        "first_seen": "2026-10-04",
+        "note": "要目視確認"
+      }
+    },
+    "北村内科クリニック（加古川市）": {
+      "https://job-medley.com/facility/203987/": {
+        "url": "https://job-medley.com/facility/203987/",
+        "title": "臨床検査技師（パート）",
+        "employment_type": "パート、時給1,600円〜1,800円",
+        "echo_mention": "心エコー経験者対象。生理検査（心電図、スパイロ、血圧脈波検査、超音波検査等）",
+        "first_seen": "2026-10-04",
+        "note": "公式サイト https://kitamura-med.com/recruit/ も参照。要目視確認"
+      }
+    },
+    "明石回生病院（明石市）": {
+      "https://co-medical.mynavi.jp/search/9106108/detail.php": {
+        "url": "https://co-medical.mynavi.jp/search/9106108/detail.php",
+        "title": "臨床検査技師（常勤）",
+        "employment_type": "常勤（募集終了の可能性あり）",
+        "echo_mention": "エコー検査（腹部・心臓・頚部・下肢等）",
+        "first_seen": "2026-10-04",
+        "note": "募集終了の可能性あり。要目視確認"
+      }
     }
   },
   "last_daily_check": "2026-10-04T23:20:00+09:00",
-  "last_weekly_check": "2026-09-27T23:59:00+09:00"
+  "last_weekly_check": "2026-10-04T23:59:00+09:00"
 }
