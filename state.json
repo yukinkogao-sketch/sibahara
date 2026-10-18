@@ -372,8 +372,58 @@
         "first_seen": "2026-10-04",
         "note": "募集終了の可能性あり。要目視確認"
       }
+    },
+    "井野病院（姫路市大塩町）": {
+      "https://www.jinzaibank.com/kjb/detail/547677.html": {
+        "url": "https://www.jinzaibank.com/kjb/detail/547677.html",
+        "title": "臨床検査技師（常勤・エコー業務含む）",
+        "employment_type": "常勤、寮・社宅あり",
+        "echo_mention": "検査全般に加えエコー業務を担当",
+        "first_seen": "2026-10-18",
+        "note": "WebSearch経由。要目視確認"
+      }
+    },
+    "広畑センチュリー病院（姫路市広畑区）": {
+      "https://www.jinzaibank.com/kjb/detail/548024.html": {
+        "url": "https://www.jinzaibank.com/kjb/detail/548024.html",
+        "title": "臨床検査技師（非常勤・週3日以上）",
+        "employment_type": "非常勤（週3日以上）",
+        "echo_mention": "心エコーなどの超音波検査を含む",
+        "first_seen": "2026-10-18",
+        "note": "WebSearch経由。掲載情報が2022年頃のものと古い可能性あり、最新の募集状況は要確認"
+      }
+    },
+    "たずみ病院（加古川市尾上町）": {
+      "https://www.jinzaibank.com/kjb/detail/548248.html": {
+        "url": "https://www.jinzaibank.com/kjb/detail/548248.html",
+        "title": "臨床検査技師（非常勤・エコー未経験可）",
+        "employment_type": "非常勤",
+        "echo_mention": "腹部・心臓・頸動脈エコー、未経験可",
+        "first_seen": "2026-10-18",
+        "note": "WebSearch経由。検索時点で「採用定員に達した」旨の表示あり、応募前に最新状況の確認が必要"
+      }
+    },
+    "きよしクリニック（明石市）": {
+      "https://www.jinzaibank.com/kjb/detail/54885097.html": {
+        "url": "https://www.jinzaibank.com/kjb/detail/54885097.html",
+        "title": "臨床検査技師（正社員・常勤）",
+        "employment_type": "正社員、月給288,000円、残業ほとんどなし",
+        "echo_mention": "エコー経験ある方大歓迎",
+        "first_seen": "2026-10-18",
+        "note": "WebSearch経由。要目視確認"
+      }
+    },
+    "あさひ病院（明石市林崎町）": {
+      "https://www.jinzaibank.com/kjb/detail/547431.html": {
+        "url": "https://www.jinzaibank.com/kjb/detail/547431.html",
+        "title": "臨床検査技師（常勤）",
+        "employment_type": "常勤、当直・オンコールなし",
+        "echo_mention": "エコー経験不問（業務に含む）",
+        "first_seen": "2026-10-18",
+        "note": "WebSearch経由。要目視確認"
+      }
     }
   },
   "last_daily_check": "2026-10-19T08:17:00+09:00",
-  "last_weekly_check": "2026-10-11T23:59:00+09:00"
+  "last_weekly_check": "2026-10-18T23:59:00+09:00"
 }
